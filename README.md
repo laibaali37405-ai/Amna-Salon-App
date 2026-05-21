@@ -10,6 +10,8 @@ This project showcases my ability to handle complex state management, cloud data
 
 
 ## 📱 App Preview
+![admin login](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/admin%20login%20panel.jpeg?raw=true)
+
 
 
 ## 🎥 Video Demo
