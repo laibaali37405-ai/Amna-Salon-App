@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947007501335",
+    "project_id": "amna-salon-app",
+    "storage_bucket": "amna-salon-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947007501335:android:5a241fffcf94eeaf9e5852",
+        "android_client_info": {
+          "package_name": "com.example.amna_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArT7o73C6DuLg_FNBDlWFJKdsVBrNfm6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
