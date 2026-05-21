@@ -13,6 +13,7 @@ This project showcases my ability to handle complex state management, cloud data
 ![all screens](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/all%20screens.png?raw=true)
 ![book now](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/book%20now.jpeg?raw=true)
 ![admin](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/admin%20login%20panel.jpeg?raw=true)
+![bridal](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/bridal%20section.jpeg?raw=true)
 
 
 
