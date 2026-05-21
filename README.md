@@ -10,16 +10,6 @@ This project showcases my ability to handle complex state management, cloud data
 
 
 ## 📱 App Preview
-![home page](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/home%20page.jpeg?raw=true)
-![info page](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/info%20page.jpeg?raw=true)
-![owner access](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/owner%20access.jpeg?raw=true)
-![ervicces](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/service%20page.jpeg?raw=true)
-![admin login](images/admin login panel.jpeg?raw=true)
-![all screens](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/all%20screens.png?raw=true)
-![book now](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/book%20now.jpeg?raw=true)
-![bridal section](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/bridal%20section.jpeg?raw=true)
-![call owner](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/call%20with%20onwer.jpeg?raw=true)
-![chat owner](https://github.com/laibaali37405-ai/Amna-Salon-App/blob/main/chat%20with%20admin.jpeg?raw=true)
 
 
 
